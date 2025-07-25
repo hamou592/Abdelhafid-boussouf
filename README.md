@@ -21,6 +21,14 @@ This website aims to present the life, achievements, and legacy of **Abdelhafid 
 - JavaScript 
 - Netlify 
 
+🧾 License
+
+This project is open source and free to use under the MIT License.
+
+🙋‍♂️ Author
+
+Hamou Nasreddine 📫 Connect with me on linkedin.com/in/hamou-nasreddine-a967622a9 🌐 hamou-nasreddine.netlify.app
+
 ⭐️ Show your support
 
 If you like this project, consider giving it a ⭐️ on GitHub!
